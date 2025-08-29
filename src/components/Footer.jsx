@@ -20,7 +20,7 @@ export function Footer() {
           <div>
             <h3 className="text-xl font-bold mb-4">Bhupendra Kumar Chouhan</h3>
             <p className="text-muted-foreground mb-4">
-              Software Development Engineer passionate about creating innovative web solutions.
+              Full Stack Developer , passionate about creating innovative web solutions.
             </p>
             <div className="flex items-center gap-2">
               <ThemeToggle />
